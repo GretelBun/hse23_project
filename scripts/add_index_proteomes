@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for file in *.faa; do
+    makeblastdb -dbtype prot -in "$file"
+done
+

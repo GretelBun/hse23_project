@@ -1,0 +1,6 @@
+#!/bin/bash
+cd /Users/alice/Desktop/project_2023/proteomes
+for file in *.faa; do
+    filename="${file%.*}"
+    blastp -query ../protein.fasta -db /Users/alice/Desktop/project_2023/proteomes/"$file" -out ../"$filename".blast -outfmt 7
+done

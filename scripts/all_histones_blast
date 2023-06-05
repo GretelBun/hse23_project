@@ -1,0 +1,10 @@
+#!/bin/bash
+cd /Users/alice/Desktop/project_2023/proteomes
+for h_h2s in ../histones_muscle/*; do
+	h2s=$(basename "$h_h2s")
+	echo "$h2s"
+for file in *.faa; do
+    filename="${file%.*}"
+    blastp -query ../histones_muscle/"$h2s" -db /Users/alice/Desktop/project_2023/proteomes/"$file" -out ../"${h2s%.*}"_"$filename".blast -outfmt 7
+done
+done
