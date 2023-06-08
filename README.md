@@ -102,10 +102,10 @@
 - Имеет набор доменов: QLQ, HSA, Helicase ATP-binding, Helicase C-terminal, Bromo.
 - Функция: Участвует в активации транскрипции. Каталитический компонент комплекса SWI/ SNF, АТФ-зависимый хроматин-ремоделирующего комплекса, который необходим для положительной и отрицательной регуляции экспрессии генов большого количества генов. Он изменяет структуру хроматина, изменяя контакты ДНК-гистона в нуклеосоме, что в конечном итоге приводит к изменению положения нуклеосомы, тем самым облегчая или подавляя связывание генно-специфических факторов транскрипции.
 - Модификация H3K27ac дейсвительно присутсвует у yeast. [3]
-- Также была установлена информацию о том, функция найденного далекого белков-ортологов связана с выбранной эпигенетической метков. Cубъединица Yaf9 SWR1-c (SWi2/snf2-Related 1) нацеливается на гистон H3K27ac через свой домен YEATS у дрожжей.[4]
+- Также была установлена информацию о том, функция найденного белка-гомолога связана с выбранной эпигенетической метков. Cубъединица Yaf9 SWR1-c (SWi2/snf2-Related 1) нацеливается на гистон H3K27ac через свой домен YEATS у дрожжей.[4]
 
 
 
-[3] Tie, F.; Banerjee, R.; Stratton, C. A.; Prasad-Sinha, J.; Stepanik, V.; Zlobin, A.; Diaz, M. O.; Scacheri, P. C.; Harte, P. J. (2009). CBP-mediated acetylation of histone H3 lysine 27 antagonizes Drosophila Polycomb silencing. Development, 136(18), 3131–3141. doi:10.1242/dev.037127 
+[3] Suka N, Suka Y, Carmen AA, Wu J, Grunstein M. Highly specific antibodies determine histone acetylation site usage in yeast heterochromatin and euchromatin. Mol Cell. 2001 Aug;8(2):473-9. doi: 10.1016/s1097-2765(01)00301-x. PMID: 11545749.
 
 [4] Wang, Jianhao; Gao, Sujuan; Peng, Xiuling; Wu, Keqiang; Yang, Songguang (2019). Roles of the INO80 and SWR1 Chromatin Remodeling Complexes in Plants. International Journal of Molecular Sciences, 20(18), 4591–. doi:10.3390/ijms20184591 
